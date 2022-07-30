@@ -1,0 +1,10 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	/* background-color: rgba(17, 17, 17, 0.918); */
+}
+.card:hover {
+	transform: scale(1.03);
+}
